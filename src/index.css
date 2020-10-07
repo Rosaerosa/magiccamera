@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Citrica Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Citrica Regular'), url('Citrica-Regular.woff') format('woff');
+}
+
+body {
+    margin: 0;
+    font-family: 'Citrica Regular', 'Courier New', monospace;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /*background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);*/
+    background: url(fotos.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    Background-size: cover;
+}
+
+button {
+    cursor: pointer;
+}
+
+code {
+    font-family: 'Citrica Regular', source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
