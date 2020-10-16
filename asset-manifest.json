@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/magiccamera/static/css/main.e28bc378.chunk.css",
-    "main.js": "/magiccamera/static/js/main.1a2f708e.chunk.js",
-    "main.js.map": "/magiccamera/static/js/main.1a2f708e.chunk.js.map",
+    "main.js": "/magiccamera/static/js/main.8fc45176.chunk.js",
+    "main.js.map": "/magiccamera/static/js/main.8fc45176.chunk.js.map",
     "runtime-main.js": "/magiccamera/static/js/runtime-main.c861d7c1.js",
     "runtime-main.js.map": "/magiccamera/static/js/runtime-main.c861d7c1.js.map",
     "static/css/2.3c03f26f.chunk.css": "/magiccamera/static/css/2.3c03f26f.chunk.css",
     "static/js/2.0cb27001.chunk.js": "/magiccamera/static/js/2.0cb27001.chunk.js",
     "static/js/2.0cb27001.chunk.js.map": "/magiccamera/static/js/2.0cb27001.chunk.js.map",
     "index.html": "/magiccamera/index.html",
-    "precache-manifest.144a3cc9001c453ae23c0ab963f4f0ab.js": "/magiccamera/precache-manifest.144a3cc9001c453ae23c0ab963f4f0ab.js",
+    "precache-manifest.e5627cbb97cea97c37f890d8b46654db.js": "/magiccamera/precache-manifest.e5627cbb97cea97c37f890d8b46654db.js",
     "service-worker.js": "/magiccamera/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/magiccamera/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.e28bc378.chunk.css.map": "/magiccamera/static/css/main.e28bc378.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.0cb27001.chunk.js",
     "static/css/main.e28bc378.chunk.css",
-    "static/js/main.1a2f708e.chunk.js"
+    "static/js/main.8fc45176.chunk.js"
   ]
 }

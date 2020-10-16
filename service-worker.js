@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/magiccamera/precache-manifest.144a3cc9001c453ae23c0ab963f4f0ab.js"
+  "/magiccamera/precache-manifest.e5627cbb97cea97c37f890d8b46654db.js"
 );
 
 self.addEventListener('message', (event) => {

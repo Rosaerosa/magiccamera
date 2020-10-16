@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e6cf52cb6cd65b19a34a8ccc28c6468",
+    "revision": "835f701d802120e734506b0a5c444ac2",
     "url": "/magiccamera/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magiccamera/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "24056b09247f6d8aad45",
+    "revision": "40547b051fcb4a4d113c",
     "url": "/magiccamera/static/css/main.e28bc378.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/magiccamera/static/js/2.0cb27001.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24056b09247f6d8aad45",
-    "url": "/magiccamera/static/js/main.1a2f708e.chunk.js"
+    "revision": "40547b051fcb4a4d113c",
+    "url": "/magiccamera/static/js/main.8fc45176.chunk.js"
   },
   {
     "revision": "fa6ad3acb36a72467641",
